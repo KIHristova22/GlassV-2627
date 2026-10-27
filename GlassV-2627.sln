@@ -2,6 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassV-2627", "GlassV-2627\GlassV-2627.csproj", "{D4FD4B35-AAB0-456A-90CB-5D99C3576D77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassV.Domain", "GlassV.Domain\GlassV.Domain.csproj", "{A1C7C065-CD0B-43C7-A200-FA19E7C11C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassV.Application", "GlassV.Application\GlassV.Application.csproj", "{A3C9F109-5014-4939-B689-3BBEA20E9C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassV.Infrastructure", "GlassV.Infrastructure\GlassV.Infrastructure.csproj", "{5F77420B-FA24-487B-B7F6-198968B3F9CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +18,17 @@ Global
 		{D4FD4B35-AAB0-456A-90CB-5D99C3576D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4FD4B35-AAB0-456A-90CB-5D99C3576D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4FD4B35-AAB0-456A-90CB-5D99C3576D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C7C065-CD0B-43C7-A200-FA19E7C11C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C7C065-CD0B-43C7-A200-FA19E7C11C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C7C065-CD0B-43C7-A200-FA19E7C11C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C7C065-CD0B-43C7-A200-FA19E7C11C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C9F109-5014-4939-B689-3BBEA20E9C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C9F109-5014-4939-B689-3BBEA20E9C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C9F109-5014-4939-B689-3BBEA20E9C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C9F109-5014-4939-B689-3BBEA20E9C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F77420B-FA24-487B-B7F6-198968B3F9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F77420B-FA24-487B-B7F6-198968B3F9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F77420B-FA24-487B-B7F6-198968B3F9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F77420B-FA24-487B-B7F6-198968B3F9CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

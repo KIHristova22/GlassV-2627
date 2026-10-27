@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using GlassV_2627.Data;
 using GlassV_2627.Models;
-using GlassV_2627.DTOs;
+using GlassV_2627.StudentDTOs;
 
 namespace GlassV_2627.Controllers
 {
